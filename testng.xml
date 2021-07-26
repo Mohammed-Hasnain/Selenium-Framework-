@@ -1,0 +1,11 @@
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+       <!-- <class name="com.aabeauty.qa.testcases.CheckoutPageTest"/>-->
+       <!-- <class name="com.aabeauty.qa.testcases.LoginPageTest"/>-->
+       <!-- <class name="com.aabeauty.qa.basetest.BaseTest"/>-->
+      <class name="com.aabeauty.qa.testcases.HomePageTest"/>
+      <!-- <class name="com.aabeauty.qa.testcases.AddToCartPageTest"/> -->
+    </classes>
+  </test>
+</suite> 
